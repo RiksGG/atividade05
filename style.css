@@ -1,0 +1,55 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+div a{
+    color: aqua;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+a{
+    font-size: 20px;
+    color: aqua;
+}
+
+a:hover{
+    color: rgb(11, 84, 133);
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact;
+    font-weight: bolder;
+    text-decoration: underline;}
+
+
+.mapa iframe{
+
+    border: solid 8px blue;
+    border-radius: 16px;
+    
+}
+
+.video iframe{
+    border: solid 8px blue;
+    border-radius: 16px;
+}
+h1{
+    font-family: 'Arial Black';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.mapa{
+    text-align: center;
+}
